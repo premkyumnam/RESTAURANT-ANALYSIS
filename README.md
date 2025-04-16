@@ -123,7 +123,7 @@ This is the formula I am applying Here:
   $$ \text{Average Rating} = \frac{\text{Sum of all ratings}}{\text{Number of ratings}} $$
 </p>
 
-<h4> N.B: For the remaining tasks, you can see in the pdf file I uploaded separately in this repository.</h4>
+<h2> N.B: For the remaining tasks, you can see in the pdf file I uploaded separately in this repository.</h2>
 
 A huge thanks to Cognifyz Technologies for this amazing learning opportunity! Every step in this journey is helping me grow, and I'm excited for what's next.<br><br>
 
